@@ -4,6 +4,7 @@ def display_board
   puts "   ", "   |   |    ", "   "
   puts "-----------"
   puts "   ", "   |   |    ", "   "
+  display_board
 end
 
-"display_board"
+
